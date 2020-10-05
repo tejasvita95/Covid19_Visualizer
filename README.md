@@ -1,1 +1,6 @@
-A website through which user can track real time updated Covid-19 cases. It can be filter by country wise and state wise (for India only) and see the total and daily records of Active cases, recovered, death report. It also provides a Map View with color (according to number of cases) through which user can see total cases on mouseover.
+A website through which user can track real time updates of Covid-19
+cases. Users can view country-wise daily and cumulative records of active, confirmed, recovered, and death cases.
+It also provides a color-based map view on number of cases (dark most
+for maximum affected states and light most for minimum affected ones)
+through which users can see active, confirmed, recovered and death
+cases state wise (for India only) on mouseover
